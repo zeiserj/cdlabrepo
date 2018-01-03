@@ -5,6 +5,7 @@ hello-world
 
 Sample docker image to test docker deployments
 
+## this is another comment
 ## Running locally
 
 Build and run using Docker Compose:
@@ -13,7 +14,6 @@ Build and run using Docker Compose:
 	$ cd dockercloud-hello-world
 	$ docker-compose up
 
-## this is not the greatest song in the world
 ## Deploying to Docker Cloud
 
 [Install the Docker Cloud CLI](https://docs.docker.com/docker-cloud/tutorials/installing-cli/)
